@@ -1,0 +1,24 @@
+{
+    "categorys": [
+        {
+            "id": "1",
+            "category": "Action"
+        },
+        {
+            "id": "2",
+            "category": "Fantasy"
+        },
+        {
+            "id": "3",
+            "category": "History"
+        },
+        {
+            "id": "4",
+            "category": "Children"
+        },
+        {
+            "id": "5",
+            "category": "Romance"
+        }
+    ]
+}
